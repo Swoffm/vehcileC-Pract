@@ -15,6 +15,18 @@ namespace vehicleC
 
         }
 
+        public virtual void Turn(string direction)
+        {
+            Console.WriteLine($"Parent is turning {direction}!!");
+
+        }
+
+        public virtual void Stop()
+        {
+            Console.WriteLine("Parent is stoping");
+
+        }
+
         public virtual void Drive()
         {
             Console.WriteLine("Vroom");

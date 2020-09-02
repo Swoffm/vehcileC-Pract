@@ -12,6 +12,11 @@ namespace vehicleC
 
             Tesla.Drive();
             Steve.Drive();
+            Tesla.Stop();
+            Tesla.Turn("left");
+            Steve.Stop();
+            Steve.Turn("right");
+
 
 
 

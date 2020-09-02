@@ -18,6 +18,17 @@ namespace vehicleC
         {
             Console.WriteLine("run forrest");
         }
+
+        public override void Stop()
+        {
+            Console.WriteLine("child is stoping");
+        }
+
+        public override void Turn(string direction)
+        {
+            Console.WriteLine($"Child is turning {direction}!!");
+
+        }
     }
 
 }
