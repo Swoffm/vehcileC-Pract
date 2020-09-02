@@ -1,0 +1,13 @@
+C:\Users\gavin\workspace\vehicleC\bin\Debug\netcoreapp3.1\vehicleC.exe
+C:\Users\gavin\workspace\vehicleC\bin\Debug\netcoreapp3.1\vehicleC.deps.json
+C:\Users\gavin\workspace\vehicleC\bin\Debug\netcoreapp3.1\vehicleC.runtimeconfig.json
+C:\Users\gavin\workspace\vehicleC\bin\Debug\netcoreapp3.1\vehicleC.runtimeconfig.dev.json
+C:\Users\gavin\workspace\vehicleC\bin\Debug\netcoreapp3.1\vehicleC.dll
+C:\Users\gavin\workspace\vehicleC\bin\Debug\netcoreapp3.1\vehicleC.pdb
+C:\Users\gavin\workspace\vehicleC\obj\Debug\netcoreapp3.1\vehicleC.csprojAssemblyReference.cache
+C:\Users\gavin\workspace\vehicleC\obj\Debug\netcoreapp3.1\vehicleC.AssemblyInfoInputs.cache
+C:\Users\gavin\workspace\vehicleC\obj\Debug\netcoreapp3.1\vehicleC.AssemblyInfo.cs
+C:\Users\gavin\workspace\vehicleC\obj\Debug\netcoreapp3.1\vehicleC.csproj.CoreCompileInputs.cache
+C:\Users\gavin\workspace\vehicleC\obj\Debug\netcoreapp3.1\vehicleC.dll
+C:\Users\gavin\workspace\vehicleC\obj\Debug\netcoreapp3.1\vehicleC.pdb
+C:\Users\gavin\workspace\vehicleC\obj\Debug\netcoreapp3.1\vehicleC.genruntimeconfig.cache
