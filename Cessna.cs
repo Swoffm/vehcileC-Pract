@@ -4,9 +4,20 @@ namespace vehicleC
 
 {
 
-    public class Cessna : Vehicle
+    public class Cessna : Vehicle, IGas
     {
         public double cost { get; set; }
+
+
+        // igas 
+        public double CurrentTankPercentage { get; set; } = 100;
+        public void RefuelTank()
+        {
+            CurrentTankPercentage = 100;
+        }
+
+        //-----------------------------
+
 
         public Cessna(double cost, string color, int numOfPeople) : base(color, numOfPeople)
         {

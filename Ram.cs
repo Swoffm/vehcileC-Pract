@@ -5,17 +5,24 @@ using System;
 namespace vehicleC
 
 {
-    public class Ram : Vehicle // Gas powered truck
+    public class Ram : Vehicle, IGas // Gas powered truck
     {
         public double FuelCapacity { get; set; }
         public double cost { get; set; }
+
+        // IGas 
+        public double CurrentTankPercentage { get; set; } = 25;
+
+        public void RefuelTank()
+        {
+            CurrentTankPercentage = 100;
+        }
+        //--------------------
 
         public Ram(double fuelCapacity, double cost, string color, int numOfPeople) : base(color, numOfPeople)
         {
             this.FuelCapacity = fuelCapacity;
             this.cost = cost;
-
-
         }
 
         public override void Drive()
